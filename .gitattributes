@@ -1,0 +1,2 @@
+RDCMan.exe filter=lfs diff=lfs merge=lfs -text
+RDCMan-x86.exe filter=lfs diff=lfs merge=lfs -text
